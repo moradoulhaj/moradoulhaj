@@ -33,5 +33,4 @@
 </div>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/moradoulhaj/output/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/moradoulhaj/moradoulhaj/output/snake.svg" alt="Snake animation" />
