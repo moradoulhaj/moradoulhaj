@@ -46,6 +46,7 @@
 
 ---
 
-## 👀 Visitor Count
-
+## 👀 Visitor Count - Reset ON : 5/5/2025
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/moradoulhaj/count.svg)
+</div>
