@@ -48,4 +48,4 @@
 
 ## 👀 Visitor Count
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=moradoulhaj)
+![Visitor Count](https://profile-counter.glitch.me/moradoulhaj/count.svg)
