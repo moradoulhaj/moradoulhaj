@@ -43,3 +43,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/moradoulhaj/moradoulhaj/output/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+## 👀 Visitor Count
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=moradoulhaj)
